@@ -1,4 +1,4 @@
-<img align="right" width="180" src=["YOUR_PHOTO_URL_HERE"](https://github.com/Saad-2605/Saad-2605/blob/main/alexander-slattery-li748t0bk8w-unsplash.jpg?raw=true) style="border-radius: 50%; margin-left: 20px;" />
+<img align="right" width="180" src="https://github.com/Saad-2605/Saad-2605/blob/main/alexander-slattery-li748t0bk8w-unsplash.jpg?raw=true" style="border-radius: 50%; margin-left: 20px;" />
 
 <div align="center">
 
